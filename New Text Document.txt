@@ -1,0 +1,1 @@
+	http://pro.netmos.ovh:7355/get.php?username=PR5793154426082&password=6117100785183&type=m3u_plus   http://pro.netmos.ovh:7355 | username = PR5793154426082 | password = 6117100785183 | status = Active | exp_date = 16-06-2027 
